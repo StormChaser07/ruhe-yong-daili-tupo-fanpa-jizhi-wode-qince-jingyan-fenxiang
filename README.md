@@ -8,6 +8,8 @@
 
 后来朋友推荐了 [**9Proxy**](https://the9proxy.short.gy/github-homepage-lucas888)，用了才知道，这就是爬虫人该用的代理。
 
+🌱 [**点击链接，享受限时折扣！**](https://the9proxy.short.gy/github-pricing-lucas888)
+
 ## 🕵️ 什么是反爬机制？
 
 网站检测“非正常”访问行为的手段：
